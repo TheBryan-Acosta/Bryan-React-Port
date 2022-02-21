@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/TheBryan-Acosta/Bryan-React-Port/static/css/main.56ec1ce3.css",
-    "main.js": "/TheBryan-Acosta/Bryan-React-Port/static/js/main.80249899.js",
-    "static/js/787.1bb4b460.chunk.js": "/TheBryan-Acosta/Bryan-React-Port/static/js/787.1bb4b460.chunk.js",
-    "index.html": "/TheBryan-Acosta/Bryan-React-Port/index.html",
-    "main.56ec1ce3.css.map": "/TheBryan-Acosta/Bryan-React-Port/static/css/main.56ec1ce3.css.map",
-    "main.80249899.js.map": "/TheBryan-Acosta/Bryan-React-Port/static/js/main.80249899.js.map",
-    "787.1bb4b460.chunk.js.map": "/TheBryan-Acosta/Bryan-React-Port/static/js/787.1bb4b460.chunk.js.map"
+    "main.css": "/Bryan-React-Port/static/css/main.56ec1ce3.css",
+    "main.js": "/Bryan-React-Port/static/js/main.44fc6bdb.js",
+    "static/js/787.1bb4b460.chunk.js": "/Bryan-React-Port/static/js/787.1bb4b460.chunk.js",
+    "index.html": "/Bryan-React-Port/index.html",
+    "main.56ec1ce3.css.map": "/Bryan-React-Port/static/css/main.56ec1ce3.css.map",
+    "main.44fc6bdb.js.map": "/Bryan-React-Port/static/js/main.44fc6bdb.js.map",
+    "787.1bb4b460.chunk.js.map": "/Bryan-React-Port/static/js/787.1bb4b460.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.56ec1ce3.css",
-    "static/js/main.80249899.js"
+    "static/js/main.44fc6bdb.js"
   ]
 }
