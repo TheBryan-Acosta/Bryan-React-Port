@@ -5,17 +5,17 @@ function Nav() {
 		<nav class="navbar navbar-expand-lg navbar-light bg-light">
 			<ul class="navbar-nav">
 				<li class="nav-item">
-					<a class="nav-link" href="/">
+					<a class="nav-link" href="/Bryan-React-Port">
 						Home
 					</a>
 				</li>
 				<li class="nav-item">
-					<a class="nav-link" href="/about">
+					<a class="nav-link" href="about">
 						About
 					</a>
 				</li>
 				<li class="nav-item">
-					<a class="nav-link" href="/contact">
+					<a class="nav-link" href="contact">
 						Contact
 					</a>
 				</li>
