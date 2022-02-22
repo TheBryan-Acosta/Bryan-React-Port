@@ -1,16 +1,21 @@
-import "./assets/style.css";
 import "bootstrap/dist/css/bootstrap.min.css";
+import React from "react";
+import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
+import Nav from "./components/Nav";
 import About from "./components/About";
 import Contact from "./components/Contact";
-import Nav from "./components/Nav";
 
 function App() {
 	return (
-		<div>
+		<Router>
 			<Nav />
-			<About />
-			<Contact />
-		</div>
+			<div className="container">
+				<Switch>
+					<Route exact path="/about" component={About} />
+					<Route exact path="/contact" component={Contact} />
+				</Switch>
+			</div>
+		</Router>
 	);
 }
 
