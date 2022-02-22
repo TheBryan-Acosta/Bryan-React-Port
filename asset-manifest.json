@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Bryan-React-Port/static/css/main.56e6221f.css",
-    "main.js": "/Bryan-React-Port/static/js/main.f2e9e159.js",
+    "main.js": "/Bryan-React-Port/static/js/main.c642649d.js",
     "static/js/787.1bb4b460.chunk.js": "/Bryan-React-Port/static/js/787.1bb4b460.chunk.js",
     "index.html": "/Bryan-React-Port/index.html",
     "main.56e6221f.css.map": "/Bryan-React-Port/static/css/main.56e6221f.css.map",
-    "main.f2e9e159.js.map": "/Bryan-React-Port/static/js/main.f2e9e159.js.map",
+    "main.c642649d.js.map": "/Bryan-React-Port/static/js/main.c642649d.js.map",
     "787.1bb4b460.chunk.js.map": "/Bryan-React-Port/static/js/787.1bb4b460.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.56e6221f.css",
-    "static/js/main.f2e9e159.js"
+    "static/js/main.c642649d.js"
   ]
 }
