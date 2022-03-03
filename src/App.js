@@ -1,22 +1,44 @@
+import "./App.css";
 import "bootstrap/dist/css/bootstrap.min.css";
-import React from "react";
-import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
-import Nav from "./components/Nav";
-import About from "./components/About";
-import Contact from "./components/Contact";
+import Particles from "react-particles-js";
+import Navbar from "./components/Navbar";
+import Header from "./components/Header";
+import About from './components/About'
+import Projects from "./components/Projects";
+import Contact from "./components/contact";
+import Footer from "./components/Footer";
 
 function App() {
-	return (
-		<Router>
-			<Nav />
-			<div className="container">
-				<Switch>
-					<Route exact path="/Bryan-React-Port/about" component={About} />
-					<Route exact path="/Bryan-React-Port/contact" component={Contact} />
-				</Switch>
-			</div>
-		</Router>
-	);
+  return (
+    <>
+      <Particles
+        params={{
+          Particles: {
+            number: {
+              value: 30,
+              density: {
+                enable: true,
+                value_area: 900,
+              }
+            },
+            shape: {
+              type: "circle",
+              stroke: {
+                width: 6,
+                color: "#f9ab00",
+              },
+            },
+          },
+        }}
+      />
+      <Navbar />
+      <Header />
+      <About />
+      <Projects />
+      <Contact />
+      <Footer />
+    </>
+  );
 }
 
 export default App;
