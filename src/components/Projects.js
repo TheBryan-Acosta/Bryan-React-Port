@@ -11,7 +11,7 @@ function Projects() {
 					<div className="row">
 						<div id="img1" className=" col-lg-3 col-md-6 col-sm-12">
 							<div className="box">
-								<h3>Movie Fusion</h3>
+								<h3>PokeParent</h3>
 								<img className="img-project" src={Proj1} alt="mf..."></img>
 
 								<h6> Select your pokemon!</h6>
@@ -29,7 +29,7 @@ function Projects() {
 								<h3>SKB</h3>
 								<img className="img-project" src={Proj2} alt="skb..."></img>
 
-								<h6>Social media platform</h6>
+								<h6>Crypttok</h6>
 								<a
 									href="https://github.com/liuyfab/Project2-EventSurvey"
 									className="btn-main"
@@ -41,7 +41,7 @@ function Projects() {
 						{/* */}
 						<div id="img3" className="col-lg-3 col-md-6 col-sm-12">
 							<div className="box">
-								<h3>Book Search Engine</h3>
+								<h3>Marvelous</h3>
 								<img className="img-project" src={Proj3} alt="bse..."></img>
 
 								<h6>

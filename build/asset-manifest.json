@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Bryan-React-Port/static/css/main.61eaa527.chunk.css",
+    "main.js": "/Bryan-React-Port/static/js/main.270ea146.chunk.js",
+    "main.js.map": "/Bryan-React-Port/static/js/main.270ea146.chunk.js.map",
+    "runtime-main.js": "/Bryan-React-Port/static/js/runtime-main.46757698.js",
+    "runtime-main.js.map": "/Bryan-React-Port/static/js/runtime-main.46757698.js.map",
+    "static/css/2.0f1110e3.chunk.css": "/Bryan-React-Port/static/css/2.0f1110e3.chunk.css",
+    "static/js/2.6d186584.chunk.js": "/Bryan-React-Port/static/js/2.6d186584.chunk.js",
+    "static/js/2.6d186584.chunk.js.map": "/Bryan-React-Port/static/js/2.6d186584.chunk.js.map",
+    "static/js/3.04307a36.chunk.js": "/Bryan-React-Port/static/js/3.04307a36.chunk.js",
+    "static/js/3.04307a36.chunk.js.map": "/Bryan-React-Port/static/js/3.04307a36.chunk.js.map",
+    "index.html": "/Bryan-React-Port/index.html",
+    "static/css/2.0f1110e3.chunk.css.map": "/Bryan-React-Port/static/css/2.0f1110e3.chunk.css.map",
+    "static/css/main.61eaa527.chunk.css.map": "/Bryan-React-Port/static/css/main.61eaa527.chunk.css.map",
+    "static/js/2.6d186584.chunk.js.LICENSE.txt": "/Bryan-React-Port/static/js/2.6d186584.chunk.js.LICENSE.txt",
+    "static/media/me.d4575c89.jpeg": "/Bryan-React-Port/static/media/me.d4575c89.jpeg",
+    "static/media/App.css": "/Bryan-React-Port/static/media/pc-background.e4650969.jpg",
+    "static/media/proj2.da050087.png": "/Bryan-React-Port/static/media/proj2.da050087.png",
+    "static/media/proj3.d29e9b58.png": "/Bryan-React-Port/static/media/proj3.d29e9b58.png",
+    "static/media/threewasll.5748fb3c.jpg": "/Bryan-React-Port/static/media/threewasll.5748fb3c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.46757698.js",
+    "static/css/2.0f1110e3.chunk.css",
+    "static/js/2.6d186584.chunk.js",
+    "static/css/main.61eaa527.chunk.css",
+    "static/js/main.270ea146.chunk.js"
+  ]
+}
